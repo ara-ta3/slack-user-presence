@@ -1,0 +1,21 @@
+{
+    "memo": "5644fd697bf28c86eaf8f73a776b36d8939016e0b39cf3a5bc44be243df9018f",
+    "projects": [
+        {
+            "name": "github.com/joho/godotenv",
+            "version": "v1.1",
+            "revision": "726cc8b906e3d31c70a9671c90a13716a8d3f50d",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/mackerelio/mackerel-client-go",
+            "branch": "master",
+            "revision": "06c1fc8001df37895e8b8c9cb270a42432ff272c",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
