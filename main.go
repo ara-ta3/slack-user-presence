@@ -58,7 +58,7 @@ func main() {
 	json.Unmarshal(body, &r)
 	c := 0
 	for _, u := range r.Members {
-		if u.Presence == "active" {
+		if u.Presence == "active" && !u.IsBot {
 			c++
 		}
 	}
